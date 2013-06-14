@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">sCooL</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Opciones</string>
+    <string name="nombrec">Centro Educativo</string>
+    <string name="clubs">Clubs</string>
+    <string name="entrar">Entrar</string>
+    <string name="title_activity_ajedrez">Ajedrez</string>
+    <string name="miembros">Miembros</string>
+    <string name="eventos">Juego</string>
+    <string name="multimedia">Multimedia</string>
+    <string name="jaquemate">Jaque Mate</string>
+    <string name="correcorre">Corre Corre</string>
+    <string name="presentacion">Bienvenido al club Jaque Mate. Este es un grupo de compañeros dedicados al mismo hobby, el apasionante mundo del ajedrez. A traves de este portal, podremos comunicarnos entre nosotros, ver proximos eventos concernientes al club, llevar un control de las actividades del club, etc.</string>
+    <string name="presentacion2">Corre corre que te pillo. El club de atlestimo te sorprenderá!! Aqui harás nuevos amigos, compartiras experiencias y mejoraras en este deporte que todos amamos con locura. Echate unas carreras con nosotros y apuntate al club Corre Corre. Te esperamos!</string>
+    <string name="title_activity_miembros">Miembros</string>
+    <string name="nombre">Nombre</string>
+    <string name="apellidos">Apellidos</string>
+    <string name="title_activity_perfil">Perfil</string>
+    <string name="title_activity_juego_ajedrez">JuegoAjedrez</string>
+    <string name="title_activity_multimedia">Multimedia</string>
+    <string name="title_activity_juego_atletismo">JuegoAtletismo</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_atletismo">Atletismo</string>
+    <string name="jug1">Jugador 1</string>
+    <string name="jug2">Jugador 2</string>
+    <string name="title_activity_insertar">Insertar</string>
+    <string name="rango">Rango</string>
+    <string name="insert">Añadir</string>
+    <string name="info">Información</string>
+    <string name="reglas">Reglamento</string>
+    <string name="reg">1. Si toco una pieza tengo que moverla. (se dice "pieza tocada, pieza movida") 2. Al poner el tablero, el rincón derecho debe ser blanco. 3. La dama blanca empieza en casilla blanca y la negra, en color negro. 4. El peón puede coronar dama, torre, caballo o alfil. 5. La única pieza que no puede volver atrás es el peón. 6. El caballo es el único que salta 7. El peón puede comer al paso, pero si no lo hace en ese momento, después ya no se puede. 8. No se puede hacer el enroque si moví la torre o el rey.. 9. No se puede hacer el enroque si el rey está en jaque. 10. No se puede hacer el enroque si el rey , al ir a la casilla que le corresponde, pasa por jaque. 11. Si pasan 50 jugadas seguidas de cada jugador y no hay movidas de peones o capturas, es tablas,12. Es tablas si se repite 3 veces la misma posición. 13. Es tablas si se demuestra que uno va a dar jaque perpetuo (todas las jugadas).</string>
+    <string name="title_activity_miembros_atle">MiembrosAtle</string>
+    <string name="title_activity_info_atle">InfoAtle</string>
+    <string name="pruebbas">Pruebas</string>
+    <string name="vel">Velocidad</string>
+    <string name="fon">Carrera de fondo y media distancia</string>
+    <string name="rut">Carreras en ruta</string>
+    <string name="vallas">Salto de vallas</string>
+    <string name="welcome">Bienvenido al sistema de clubs iClub. Aqui podrás acceder a los distintos clubs que formen parte de la oferta extraescolar de tu centro. Dentro de cada seccion encontrarás informacion referente a las actividades del club, sus miembros, proximos eventos... Y muchas cosas más! :)  Selecciona tu centro, selecciona el club al que quieres acceder y... Disfruta!</string>
+    <string name="disculpas">Lo siento, pero por el momento solo están implementados los clubs "Jaque Mate" y "CorreCorre" :(</string>
+    <string name="eventoss">Eventos</string>
+    <string name="mensajes">Mensajes</string>
+    <string name="tareas">Tareas</string>
+
+</resources>

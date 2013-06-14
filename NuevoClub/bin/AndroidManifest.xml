@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.nuevoclub"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="8"
+        android:targetSdkVersion="16" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/milogo3"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="adrsoft.scool.scoolmovil.MainActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="adrsoft.scool.scoolmovil.Ajedrez"
+            android:label="@string/title_activity_ajedrez" >
+        </activity>
+        <activity
+            android:name="adrsoft.scool.scoolmovil.Miembros"
+            android:label="@string/title_activity_miembros" >
+        </activity>
+        <activity
+            android:name="adrsoft.scool.scoolmovil.Perfil"
+            android:label="@string/title_activity_perfil" >
+        </activity>
+        <activity
+            android:name="adrsoft.scool.scoolmovil.JuegoAjedrez"
+            android:label="@string/title_activity_juego_ajedrez" >
+        </activity>
+        <activity
+            android:name="adrsoft.scool.scoolmovil.Multimedia"
+            android:label="@string/title_activity_multimedia" >
+        </activity>
+        <activity
+            android:name="adrsoft.scool.scoolmovil.JuegoAtletismo"
+            android:label="@string/title_activity_juego_atletismo" >
+        </activity>
+        <activity
+            android:name="adrsoft.scool.scoolmovil.Atletismo"
+            android:label="@string/title_activity_atletismo" >
+        </activity>
+        <activity
+            android:name="adrsoft.scool.scoolmovil.Insertar"
+            android:label="@string/title_activity_insertar" >
+        </activity>
+        <activity
+            android:name="adrsoft.scool.scoolmovil.MiembrosAtle"
+            android:label="@string/title_activity_miembros_atle" >
+        </activity>
+        <activity
+            android:name="adrsoft.scool.scoolmovil.InfoAtle"
+            android:label="@string/title_activity_info_atle" >
+        </activity>
+    </application>
+
+</manifest>
